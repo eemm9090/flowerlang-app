@@ -8,7 +8,7 @@ import numpy as np
 
 
 classes = ["向日葵","チューリップ","パンジー","アジサイ","カーネーション"]
-image_size = 28
+image_size = 50
 
 UPLOAD_FOLDER = "uploads"
 ALLOWED_EXTENSIONS = set(['png', 'jpg', 'jpeg', 'gif'])
