@@ -30,4 +30,3 @@ termcolor==2.3.0
 urllib3==1.26.16
 Werkzeug==2.3.7
 wheel==0.38.4
-gunicorn==19.7.1
