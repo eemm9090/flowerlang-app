@@ -7,7 +7,7 @@ from tensorflow.keras.preprocessing import image
 import numpy as np
 
 
-classes = ["向日葵","チューリップ","パンジー","アジサイ","カーネーション"]
+classes = ["向日葵で花言葉は「憧れ」「情熱」「あなただけを見つめる」","チューリップで花言葉は「愛の告白」「博愛」「思いやり」","パンジーで花言葉は「誠実」「純愛」「心の平和」","アジサイで花言葉は「家族」「和気あいあい」「移り気」","カーネーションで花言葉は「女性の愛」「感動」「純粋な愛情」"]
 image_size = 50
 
 UPLOAD_FOLDER = "uploads"
